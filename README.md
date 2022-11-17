@@ -18,3 +18,7 @@ Modifying README.md further!
 
     Final modifications.
 
+
+### This is the first modification done by Anja.
+
+    (for the exercise)
